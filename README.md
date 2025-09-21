@@ -7,7 +7,8 @@ The trained model analyzes news articles and predicts whether they are **real or
 🔗 **Live Demo:** [Click Here](https://ml-based-newsdetection.onrender.com)  
 🔗 **Dataset:** [Click Here](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
 
-![App Screenshot](/img.png)
+![App Screenshot](/img1.png)
+![App Screenshot](/img2.png)
 
 ---
 
@@ -43,6 +44,7 @@ This project provides an accessible **ML-powered tool** to automatically analyze
 - Efficient **online learning** algorithm for text classification.
 - Remains *passive* on correct predictions, *aggressive* on mistakes.
 - Fast, scalable, and highly accurate (achieved **99.6% accuracy**).
+- *one of the biggest backfall is that model is trined on small dataset.*
 
 ---
 
@@ -106,4 +108,3 @@ This project provides an accessible **ML-powered tool** to automatically analyze
 This project is licensed under the **MIT License** – free to use, modify, and distribute.
 
 ---
-*one of the biggest backfall is that model is trined on small dataset.*
